@@ -62,3 +62,5 @@ sustainability.
 REFERENCES
 
 •	Import dataset of plant disease from this website https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+
