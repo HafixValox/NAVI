@@ -1,4 +1,5 @@
-1. PROBLEM DOMAIN
+1. PROBLEM DOMAIN:
+   
 The problem domain of the "Plant Disease Detection" project revolves around addressing the 
 critical challenges faced by the agricultural sector in identifying and managing plant diseases. 
 Agriculture is a fundamental component of global food production, and the health of crops 
@@ -19,7 +20,8 @@ diseases with a 96.84% accuracy rate. The project makes use of a Kaggle dataset 
 pictures of several plant diseases. Creating a Convolutional Neural Network (CNN) model that 
 can correctly classify the photos and identify plant diseases is the goal.
 
-2. PROPOSED TREATMENT
+3. PROPOSED TREATMENT:
+   
 The proposed treatment for the "Plant Disease Detection" project involves the integration of 
 advanced technology, specifically artificial intelligence and machine learning algorithms, to 
 create an automated and accurate system for identifying and diagnosing plant diseases. The 
@@ -45,7 +47,8 @@ in recognizing plant illnesses. The results open the door for the use of automat
 detection systems in agriculture, enabling early diagnosis and quick response to lessen the effects 
 of plant diseases and improve crop management techniques.
 
-3. PLAN OF WORK
+5. PLAN OF WORK:
+
 The proposed treatment for the "Plant Disease Detection" project involves the integration of 
 advanced technology, specifically artificial intelligence and machine learning algorithms, to 
 create an automated and accurate system for identifying and diagnosing plant diseases. The 
